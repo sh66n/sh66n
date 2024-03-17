@@ -1,5 +1,7 @@
-### Hi there 👋
-<img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif">
+<div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+  ### Hi there 👋
+  <img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif](https://w7.pngwing.com/pngs/382/784/png-transparent-pokemon-yellow-pokemon-heartgold-and-soulsilver-charizard-pixel-art-pyssla-pokemon-fictional-character-pokemon-sprite.png">
+</div>
 
 <!--
 **sh66n/sh66n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
