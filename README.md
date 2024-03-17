@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://i.pinimg.com/originals/9d/9f/d1/9d9fd196fa5d40637f115431cf75683e.gif">
 
 <!--
 **sh66n/sh66n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
