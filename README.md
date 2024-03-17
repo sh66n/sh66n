@@ -1,7 +1,7 @@
 <div align="center">
-  <div style="display: flex; flex-direction: column;">
-    <h1 display="inline-block"> Hi there 👋 </h1>
-    <img src="https://64.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gifv">
+  <div style="display: flex;">
+    <h1> Hi there 👋 </h1>
+    <img src="https://64.media.tumblr.com/tumblr_ma4fvrTeAk1rfjowdo1_500.gifv" style="height: 50px; width: 50px;"> 
   </div>
 </div>
 
